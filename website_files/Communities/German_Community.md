@@ -24,7 +24,7 @@ There is a range series of different STACK-related projects and groups that addr
 - STACK.nrw
 
 ## Translation of the STACK plugin
-Most of the string of the moodle STACK plugin are already translated to german. However, as STACK is constantly being under active development, there will likely be strings for which no translation is yet available. The translations can be easily added via [Moodle AMOS](https://lang.moodle.org). If you have any questions or would like to make a contribution, you can contact Michael Kallweit (michael.kallweit@rub.de).
+Most of the strings of the moodle STACK plugin are already translated to german. However, as STACK is constantly being under active development, there will likely be strings for which no translation is yet available. The translations can be easily added via [Moodle AMOS](https://lang.moodle.org). If you have any questions or would like to make a contribution, you can contact Michael Kallweit (michael.kallweit@rub.de).
 
 ## Institutions
 STACK is now being used in many universities and schools.
