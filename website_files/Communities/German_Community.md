@@ -20,6 +20,7 @@ In Germany, several funding programs have supported and continue to support the 
 There is a range series of different STACK-related projects and groups that address different areas.
 
 - [STACK Net](https://www.oth-aw.de/forschung/forschungsprofil/forschungs-und-entwicklungsprojekte/stack-net/eckdaten-des-projektes/)
+- [SIG Mathe DIGITAL](https://docu.ilias.de/ilias.php?baseClass=ilrepositorygui&ref_id=5183)
 - STACK.nrw
 
 ## Translation of the STACK plugin
