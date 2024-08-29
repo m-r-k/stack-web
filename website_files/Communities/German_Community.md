@@ -16,6 +16,11 @@ In Germany, several funding programs have supported and continue to support the 
 - [DigStat - Digitale Lerneinheiten in der Statistik](https://www.uni-siegen.de/start/news/oeffentlichkeit/974194.html)
 - [diAM:INT - Digitale Anwendungsaufgaben zur Mathematik in Informatik, Naturwissenschaften und Technik](https://www.w-hs.de/hochschule/lehren-an-der-wh/innovative-lehrprojekte/diamint/)
 
+## Projects
+There is a range series of different STACK-related projects that address different areas.
+
+- [STACK Net](https://www.oth-aw.de/forschung/forschungsprofil/forschungs-und-entwicklungsprojekte/stack-net/eckdaten-des-projektes/)
+
 ## Translation of the STACK plugin
 Most of the string of the moodle STACK plugin are already translated to german. However, as STACK is constantly being under active development, there will likely be strings for which no translation is yet available. The translations can be easily added via [Moodle AMOS](https://lang.moodle.org). If you have any questions or would like to make a contribution, you can contact Michael Kallweit (michael.kallweit@rub.de).
 
