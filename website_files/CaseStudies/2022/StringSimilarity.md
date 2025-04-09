@@ -65,7 +65,7 @@ This task was used in the winter semester 2021/22 as part of a mini-test for the
 </figcaption>
 </figure></div>
 
-We implemented a string metric directly in the computer algebra system MAXIMA and placed the corresponding function in the Question Variables field of the STACK question concerned. The corresponding XML file can be downloaded from this <a href="https://www2.hs-esslingen.de/~ahelf/STACK/String_Similarity.xml" target="_blank">link</a> (June 2022).
+We implemented a string metric directly in the computer algebra system MAXIMA and placed the corresponding function in the Question Variables field of the STACK question concerned. (See below for updates)
 
 In the bottom figure we see 18 different student answers (in German) which are positioned in a coordinate system according to both similarities and are classified without errors. The radii of the disks represent the number of equal student answers. In total, this task was processed 263 times. The acceptance domain for correct answers is white-marked.
 
@@ -83,9 +83,9 @@ The authors would like to thank Stiftung Innovation in der Hochschullehre for su
 <div class="d-inline m-3"><img style="display: inline-block;" src="../Images/StiftungInnovation.jpg" class="img-fluid img-logo"  title="Stiftung Innovation in der Hochschullehre" alt="Stiftung Innovation in der Hochschullehre logo"/></div>
 <div class="d-inline m-3"><img style="display: inline-block;" src="../Images/D3.png" class="img-fluid img-logo"  title="Digitalisierung Didaktisch Denken" alt="Digitalisierung Didaktisch Denken logo"/></div>
 
-### Implemention notes
+### Implementation notes
 
-This feature has been added to STACK 4.0 in 2022 as an answer test. 
+This feature has been added to STACK 4.0 in 2022 as an answer test. An example question using this feature is available through the stacklibrary in [Doc-Examples/Topics-Docs/D-L-distance.xml](https://github.com/maths/moodle-qtype_stack/blob/master/samplequestions/stacklibrary/Doc-Examples/Topics-Docs/D-L-distance.xml)
 
 ### References			
 
