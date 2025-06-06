@@ -22,7 +22,9 @@ nav:
     - About: 'About.md'
     - Get Started: 'GetStarted.md'
     - Community:
-        - 'Development team and Advisory Board': 'Community.md'
+        - 'Overview': 'Community.md'
+        - 'Development team': 'Communities/Development_team.md'
+        - 'International Advisory Board': 'Communities/Advisory_board.md'
         - 'African STACK Community Leadership Team': 'Communities/African_leadership.md'
         - 'STACK Professionals Network': 'Communities/Professional_network.md'
         - 'STACK Researchers Network': 'Communities/Researchers_network.md'
@@ -35,6 +37,7 @@ nav:
         - 'Meeting reports': 'MeetingReports/index.md'
     - Projects:
         - 'Overview': 'Projects/index.md'
+        - 'STACK.nrw': 'Projects/STACKnrw/index.md'
         - 'STACKnet' : 'Projects/STACKnet/index.md'
         - 'IdeaL' : 'Projects/IDEAL/index.md'
         - 'KTP' : 'Projects/KTP/index.md'

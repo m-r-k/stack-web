@@ -72,7 +72,6 @@
 		<div class="col-md-4">
     		<center><img class="img-person" src="../../img/people/Stephen-Nulty.jpg" alt="Stephen Nulty" /></center><br>
     		<h4>Stephen Nulty</h4>
-    		<p>National University of Ireland Maynooth, Ireland<br /><a href="mailto:Stephen.Nulty@mu.ie">Stephen.Nulty@mu.ie</a><br /><em></em></p>
 		</div>
 	</div>
 	<div class="row">
@@ -156,6 +155,12 @@
    			<center><img class="img-person" src="../../img/people/Miriam-Weigel.jpg" alt="Miriam Weigel"/></center><br>
    			<h4>Miriam Weigel</h4>
    			<p>DHBW Mannheim, Germany<br /><a href="mailto:Miriam.Weigel@dhbw.de">Miriam.Weigel@dhbw.de</a></p>
+   		</div>
+
+		<div class="col-md-4">
+   			<center><img class="img-person" src="../../img/people/Florian-Lindemann.jpg" alt="Florian Lindemann"/></center><br>
+   			<h4>Florian Lindemann</h4>
+   			<p>Technische Universität München, Germany<br /><a href="mailto:lindemann@cit.tum.de">lindemann@cit.tum.de</a></p>
    		</div>
 
     	</div>
