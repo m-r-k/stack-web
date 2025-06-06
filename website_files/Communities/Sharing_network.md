@@ -48,6 +48,19 @@ If you would like to join the Network, please
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-auto"><img class="img-profile-pic" src=""></div>
+    <div class="col">
+		<h4>Benjamin Schulz-Rosenberger</h4>
+		<p>Ruhr University Bochum, Germany<br />
+		  <a href="mailto:benjamin.schulz-c95@rub.de">benjamin.schulz-c95@rub.de</a>
+		</p>
+		<p>Projects:
+			<span class="badge badge-pill badge-light">STACK.nrw</span>
+		</p>
+	</div>
+</div>
+
 
 ## Open collections/databases for STACK questions
 * STACK Question Library (available within the STACK plugin)
